@@ -1,0 +1,4 @@
+apiVersion: v1
+description: reaction Helm Chart
+name: reaction
+version: 3.4.0
